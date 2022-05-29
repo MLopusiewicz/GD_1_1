@@ -1,1 +1,1 @@
-Wersja trzecia pliku
+Wersja trzecia pliku <- GIT GUT
